@@ -1,0 +1,14 @@
+<package>
+  <description brief="memory">
+
+     memory
+
+  </description>
+  <author>Marco</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/memory</url>
+
+</package>
+
+

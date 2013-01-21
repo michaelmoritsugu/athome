@@ -1,0 +1,14 @@
+<package>
+  <description brief="feature_extraction">
+
+     feature_extraction
+
+  </description>
+  <author>Marco</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/feature_extraction</url>
+  <depend package="roscpp" />
+</package>
+
+

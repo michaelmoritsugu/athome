@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/thunderbotsathome/!svn/ver/197/trunk/Software/tbots_vision_pkg/sensors
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/thunderbotsathome/!svn/ver/197/trunk/Software/tbots_vision_pkg/sensors/mainpage.dox
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/thunderbotsathome/!svn/ver/197/trunk/Software/tbots_vision_pkg/sensors/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/thunderbotsathome/!svn/ver/197/trunk/Software/tbots_vision_pkg/sensors/Makefile
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/thunderbotsathome/!svn/ver/197/trunk/Software/tbots_vision_pkg/sensors/manifest.xml
+END

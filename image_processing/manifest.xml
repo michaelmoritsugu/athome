@@ -1,0 +1,15 @@
+<package>
+  <description brief="image_processing">
+
+     image_processing
+
+  </description>
+  <author>Marco</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/image_processing</url>
+  <depend package="roscpp" />
+  <depend package="feature_extraction" />
+</package>
+
+

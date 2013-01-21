@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/thunderbotsathome/!svn/ver/203/trunk/Software/tbots_vision_pkg/feature_extraction/src
+END
+obj_feature_extraction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/thunderbotsathome/!svn/ver/203/trunk/Software/tbots_vision_pkg/feature_extraction/src/obj_feature_extraction.cpp
+END
+obstacle_feature_extraction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/thunderbotsathome/!svn/ver/210/trunk/Software/tbots_vision_pkg/feature_extraction/src/obstacle_feature_extraction.cpp
+END
+facial_feature_extraction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/thunderbotsathome/!svn/ver/203/trunk/Software/tbots_vision_pkg/feature_extraction/src/facial_feature_extraction.cpp
+END

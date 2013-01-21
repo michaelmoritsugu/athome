@@ -1,0 +1,8 @@
+<launch>
+
+<!-- Start the nodes in the feature extraction package -->
+<node pkg="feature_extraction" type="facial_feature_extraction" name="facial_features_node" />
+<node pkg="feature_extraction" type="obj_feature_extraction" name="object_features_node" />
+<node pkg="feature_extraction" type="obstacle_feature_extraction" name="obstacle_features_node" />
+
+</launch>

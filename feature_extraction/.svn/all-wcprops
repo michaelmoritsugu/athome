@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/thunderbotsathome/!svn/ver/203/trunk/Software/tbots_vision_pkg/feature_extraction
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/thunderbotsathome/!svn/ver/197/trunk/Software/tbots_vision_pkg/feature_extraction/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/thunderbotsathome/!svn/ver/197/trunk/Software/tbots_vision_pkg/feature_extraction/Makefile
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/thunderbotsathome/!svn/ver/199/trunk/Software/tbots_vision_pkg/feature_extraction/manifest.xml
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/thunderbotsathome/!svn/ver/197/trunk/Software/tbots_vision_pkg/feature_extraction/mainpage.dox
+END

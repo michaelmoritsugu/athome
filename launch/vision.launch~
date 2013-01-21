@@ -1,0 +1,8 @@
+<launch>
+
+<include file="$(find classification)/launch/classification.launch" />
+<include file="$(find image_processing)/launch/image_processing.launch" />
+<include file="$(find feature_extraction)/launch/feature_extraction.launch" />
+
+
+</launch>

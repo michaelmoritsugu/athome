@@ -1,0 +1,5 @@
+<launch>
+
+<node pkg="image_processing" type="image_processing" name="image_processing_node" />
+
+</launch>
